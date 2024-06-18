@@ -47,8 +47,6 @@ header {
     color: #3a3a3a;
 }
 
-/* About Section */
-
 #hero {
     height: 600px;
     width: 100%;
@@ -56,8 +54,9 @@ header {
     position: relative;
 }
 
+/*Text Under Hero Image*/
 .slogan {
-    color: white;
+    color: #74C0FE;
     text-align: center;
     font-size: 200%;
     position: absolute;
@@ -70,7 +69,7 @@ header {
 }
 
 .about {
-    background: linear-gradient(black,#3a3a3a);
+    background-color: black;
     padding: 100px 0 20px 0;
     text-align: center;
     box-shadow: #3a3a3a;
@@ -161,9 +160,8 @@ input[type=submit]:hover {
     background-color: #45a049;
 }
 
-/* Added a background color and some padding around the form */
-
 /*Footer*/
+
 #socials {
     text-align: center;
     padding: 20px 0;
