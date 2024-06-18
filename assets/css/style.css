@@ -60,6 +60,7 @@ header {
     background-color: black;
     padding: 100px 0 20px 0;
     text-align: center;
+    box-shadow: #3a3a3a;
 }
 
 /* About Heading */
@@ -104,6 +105,50 @@ header {
 .about h3 {
     color: white;
 }
+
+/*Sign Up Section*/
+
+.signup {
+    background-color: white;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.signup h2 {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 20px;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #74C0FE;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* highlights button green when hovering */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Added a background color and some padding around the form */
 
 /*Footer*/
 #socials {
