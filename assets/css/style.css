@@ -7,59 +7,62 @@
     margin: 0;
     box-sizing: border-box;
 }
+
 /* General styles */
-body{
-    background-color:#fff;
+body {
+    background-color: #fff;
     color: #3a3a3a;
     font-family: 'Montserrat', sans-serif;
-    margin:0;
-  }
+    margin: 0;
+}
 
-  /* Header fixed while scrolling */
-  header {
+/* Header fixed while scrolling */
+header {
     position: fixed;
     top: 0;
     left: 0;
     width: 100%;
     z-index: 99;
     background-color: white;
-  }
-  .container {
-    display:flex;
-    justify-content:space-between;
-    align-items:center; 
-  }
+}
 
-  #logo{
-    padding:0 10px;
-  }
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
-  #navbar li{
-    display:inline-block;
-  }
+#logo {
+    padding: 0 10px;
+}
 
-  #navbar a{
-    text-decoration:none;
-    font-size:18px;
-    padding-right:15px;
+#navbar li {
+    display: inline-block;
+}
+
+#navbar a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 15px;
     color: #3a3a3a;
-  }
+}
 
-  /* About Section */
+/* About Section */
 
-  #hero {
+#hero {
     height: 600px;
     width: 100%;
     background: url("../images/about.jpg") no-repeat center center/cover;
     position: relative;
 }
- 
+
 .about {
     background-color: black;
     padding: 100px 0 20px 0;
     text-align: center;
 }
-  /* About Heading */
+
+/* About Heading */
 .about h1 {
     font-size: 2.5rem;
     margin-bottom: 20px;
@@ -67,14 +70,15 @@ body{
     text-align: left;
     padding-left: 60px;
 }
-  /* About Section */
+
+/* About Section */
 .about p {
     font-size: 1rem;
     color: white;
     max-width: 800px;
     margin: 0 auto;
 }
- 
+
 .about-info {
     margin: 2rem 2rem;
     display: flex;
@@ -82,12 +86,25 @@ body{
     justify-content: left;
     text-align: left;
 }
- 
+
 .about-info p {
     font-size: 1.3rem;
     margin: 0 2rem;
     text-align: justify;
 }
+
+.about ul {
+    font-size: 1.3rem;
+    margin: 0 2rem;
+    text-align: justify;
+    color: white;
+    max-width: 800px;
+}
+
+.about h3 {
+    color: white;
+}
+
 /*Footer*/
 #socials {
     text-align: center;
