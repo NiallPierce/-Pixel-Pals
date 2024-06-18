@@ -56,6 +56,19 @@ header {
     position: relative;
 }
 
+.slogan {
+    color: white;
+    text-align: center;
+    font-size: 200%;
+    position: absolute;
+    padding-left: 20%;
+    padding-right: 20%;
+    bottom: 30px;
+    width: 100%;
+    min-height: 100px;
+    padding-top: 40px;
+}
+
 .about {
     background: linear-gradient(black,#3a3a3a);
     padding: 100px 0 20px 0;
