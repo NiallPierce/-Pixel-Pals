@@ -109,23 +109,24 @@ header {
 .about-info p {
     font-size: 1.3rem;
     margin: 0 2rem;
-    text-align: justify;
+    text-align: left;
 }
 
 .about ul {
     font-size: 1.3rem;
     margin: 0 2rem;
-    text-align: justify;
+    text-align: left;
     color: white;
     max-width: 800px;
 }
 
 .about h3 {
     color: white;
+    font-size: large;
 }
 
 .video {
-    margin-left: 10%;
+    margin-left: 5%;
     margin-top: 5%;
 }
 
@@ -149,7 +150,7 @@ header {
 }
 
 
-/* Text area size and borders */
+/* Sign Up Text area size and borders */
 input[type=text],
 select,
 textarea {
@@ -182,7 +183,7 @@ input[type=submit]:hover {
 .contact {
     background-color: white;
     width: 100%;
-    height: 200px;
+    height: auto;
     margin-bottom: 10%;
 }
 
@@ -209,8 +210,6 @@ input[type=submit]:hover {
 
 /*Spacing for footer icons*/
 
-
-
 #socials {
     text-align: center;
     padding: 20px 0;
@@ -223,4 +222,141 @@ input[type=submit]:hover {
     font-size: 160%;
     padding: 5%;
     color: #3a3a3a;
+}
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767px) {
+    nav {
+        float: none;
+        text-align: center;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
+
+    .about-info,
+    .container-su {
+        flex-direction: column;
+    }
+
+    .about h2 {
+        font-size: 2.5rem;
+        text-align: center;
+        padding: 0;
+    }
+
+    .about-info p {
+        font-size: 1.0rem;
+    }
+
+    .about-info ul {
+        font-size: 1.0rem;
+    }
+
+    .signup p {
+        font-size: 1.0rem;
+    }
+
+    #logo {
+        font-size: 1.5em;
+        text-align: center;
+    }
+
+    #slogan {
+        font-size: 2em;
+    }
+
+    input[type="text"],
+    select,
+    textarea {
+        width: 100%;
+    }
+
+    .video video {
+        width: 100vw;
+        height: auto;
+        padding: 0;
+        margin: 0;
+    }
+
+    .contact p {
+        font-size: small;
+    }
+
+    .about-info {
+        margin: 0;
+    }
+
+    .video {
+        margin-left: 0%;
+    }
+
+    .about h3 {
+        padding-left: 32px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991px) {
+
+    .about-info,
+    .container-su {
+        flex-direction: row;
+    }
+
+    .about-info div,
+    .container-su form {
+        flex: 1 1 45%;
+    }
+
+    nav ul li {
+        margin-left: 15px;
+    }
+
+    .about-info,
+    .container-su {
+        flex-direction: column;
+    }
+
+    .video video {
+        width: 100vw;
+        height: auto;
+    }
+    .about-info {
+        margin: 0;
+    }
+    .about h3 {
+        padding-left: 32px;
+    }
+    .video {
+        margin-left: 0%;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+    .about-info,
+    .container-su {
+        flex-direction: row;
+    }
+
+    .about-info div,
+    .container-su form {
+        flex: 1;
+    }
+
+    nav ul li {
+        margin-left: 20px;
+    }
 }
