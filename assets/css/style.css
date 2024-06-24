@@ -359,6 +359,11 @@ input[type=submit]:hover {
     .about h3 {
         padding-left: 32px;
     }
+    .flip {
+        background-color: white;
+        display: flex;
+        justify-content: center;
+    }
 }
 
 
