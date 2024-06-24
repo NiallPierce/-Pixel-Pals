@@ -6,3 +6,4 @@ issue with pushing through git, started new repository under correct template.
 links used w3 school to help with form
 insperation from love running project for header and nav bar
 used https://redketchup.io/color-picker to help find match color values on logo and submit button
+https://convertio.co/ for jpeg to web.d
