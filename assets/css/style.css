@@ -140,6 +140,7 @@ header {
 .flip-container {
     flex-direction: row;
     display: flex;
+    padding-top: 20px;
 }
 .flip-card {
     background-color: transparent;
@@ -457,6 +458,16 @@ input[type=submit]:hover {
     }
     .about h3 {
         padding-left: 32px;
+    }
+    .about-info p {
+        text-align: justify;
+    }
+    .about p {
+        max-width: 100%;
+    }
+
+    .about ul {
+        max-width: 100%;
     }
 
 }
