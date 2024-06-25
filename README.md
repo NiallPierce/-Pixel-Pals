@@ -27,7 +27,22 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
 - __Hero image & slogan__
 
-  - A simple image of a game controller at the top of the page to catch the users eye and let them know its a gaming website
-  - The slogan was added "Game Together, Laugh Forever" to signify its a community site to give a clearer picture of the sites intentions
+  - A simple image of a game controller at the top of the page to catch the users eye and let them know its a gaming website.
+  - The slogan was added "Game Together, Laugh Forever" to signify its a community site to give a clearer picture of the sites intentions.
 
 ![Hero Image](assets/images/hero-slogan.jpg)
+
+- __About Us__
+
+  - The about us section lets the user know who Pixel Pals are, what is our goal, what we offer and a welcome message urging them to join
+  - The goal here was to give as much information as possible with out it being too text heavy.
+
+  ![About Us](assets/images/about-Read.jpg)
+
+- __Video__
+
+  - Adding a video as opposed to an image in this section allowed to showcase the goals of the website by showing the community value.
+  - Displaying a ground of friends getting together, having fun and playing video games.
+  - The video is set to muted and to loop but also has controls to allow users to pause it if they wish.
+
+  ![Video](assets/images/video-Read.jpg)
