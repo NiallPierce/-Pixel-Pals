@@ -67,7 +67,19 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 - __Contact Us__
 
   - The Contact Us section has a small explanation on how to contact Pixel Pals.
-  - Following that there is a list marked by icons with the information needed.  
+  - Following that there is a list marked by icons with the information needed.
+  - An Iframe was added to include a google map to show a location also. 
 
   ![Sign Up](assets/images/contact.Read.jpg)
   
+- __Footer__
+
+  - The Footer contains clickable links that will open in a new tab to bring the user to any of our social medias.
+  - It includes links to Facebook, X(Twitter), Youtube and Discord (Widely used in the gaming community).
+
+  ![Footer](assets/images/footer.read.jpg)
+
+### Future Features 
+
+- Some features I'd like to add in the future would be to add a page going into more detail about upcoming events and tournaments.
+- Another page with more information on give aways and include a gallery. 
