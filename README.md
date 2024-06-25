@@ -24,3 +24,10 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
   - Keeping it white at the top allowed for it stand out more against the black background when the user first visits the page.
 
 ![Nav Bar](assets/images/nav.jpg)
+
+- __Hero image & slogan__
+
+  - A simple image of a game controller at the top of the page to catch the users eye and let them know its a gaming website
+  - The slogan was added "Game Together, Laugh Forever" to signify its a community site to give a clearer picture of the sites intentions
+
+![Hero Image](assets/images/hero-slogan.jpg)
