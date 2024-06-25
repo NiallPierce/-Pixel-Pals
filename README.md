@@ -10,6 +10,8 @@ https://convertio.co/ for jpeg to web.d
 https://www.maps.ie/ for map location
 
 # Pixel Pals
+## A website built for a fictional online gaming community.
+### MS1 - Niall Pierce
 
 The primary goal of Pixel Pals is to foster an inclusive environment where gamers of all levels can find camaraderie, share their experiences, and learn from one another. It aims to create a space where friendships are formed, teamwork is celebrated, and everyone feels welcome and valued, regardless of their background or gaming expertise. Pixel Pals is about building a supportive community where members can grow together, share their passion, and celebrate their love for gaming in a respectful environment.
 
@@ -59,7 +61,7 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
   - Sign Up section starts with text for a brief description of the benifits of joining.
   - It then uses a form lay-out for the user to input their details Name, Surname, Email and Text Box for more info
-  - Each part exluding the text box is required in order to submit the form correctly and the email must contain a email address. 
+  - Each part excluding the text box is required in order to submit the form correctly and the email must contain a email address. 
   - A drop down menu was also added allowing the user to select their favorite platform. 
 
   ![Sign Up](assets/images/join-Read.jpg)
@@ -83,6 +85,31 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
 - Some features I'd like to add in the future would be to add a page going into more detail about upcoming events and tournaments.
 - Another page with more information on give aways and include a gallery. 
+
+## Testing 
+
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
+
+- Tested Nav Menu to make sure that the users would be brought to the correct location and not brought there within a new tab.
+- Tested Video to make sure it was on an loop and more importantly that the user had the control over the video and could pause and play as they wished.
+- Tested Flip Cards with mousing over each of them so that they worked as intended and rotated correctly.
+- Tested the Sign Up section so that each section would be required in order to submit the form. I also made sure that Email Address was required as email so that the user would have to enter a valid email address to proceed and I also tested the drop down menu so that it would and displayed the correct content.
+- Tested Google Map in Contact Us section to make sure it could be moved correctly by the user.
+
+
+|What is being tested|How it was tested|what was the expected outcome|What was the outcome|
+|--------------------|-----------------|-----------------------------|--------------------|
+|links               |clicked          |open tab                     |pass                |
+|contact button      |gregre           |ergreg                       |fail                |
+
+
+
 
 ## Deployment 
 

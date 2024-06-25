@@ -161,7 +161,7 @@ header {
 
   }
   
-  /* Do an horizontal flip when you move the mouse over the flip box container */
+  /* Does an horizontal flip when you move the mouse over the flip box container */
   .flip-card:hover .flip-card-inner {
     transform: rotateY(180deg);
   }
@@ -308,7 +308,6 @@ input[type=submit]:hover {
     }
 
     nav ul {
-        display: flex;
         flex-direction: column;
         align-items: center;
     }
@@ -343,7 +342,7 @@ input[type=submit]:hover {
 
     #logo {
         font-size: 1.5em;
-        text-align: center;
+        text-align: left;
     }
 
     #slogan {
@@ -408,7 +407,7 @@ input[type=submit]:hover {
     }
 
     .video video {
-        width: 100vw;
+        width: 100%;
         height: auto;
     }
 
@@ -426,9 +425,12 @@ input[type=submit]:hover {
     .flip-card {
         flex: 1 1 25%;
     }
+    .flip-container {
+        width: 100%;
+    }
 }
 
-/* Large devices (desktops, 992px and up) */
+/* Large devices (desktops, 1500px and up) */
 @media (min-width: 1500px) {
 
     .about-info,
@@ -452,6 +454,7 @@ input[type=submit]:hover {
     }
     
 }
+/*Large Desktop 992px to 1499px */
 @media (min-width: 992px) and (max-width: 1499px) {
     .about-info,
     .container-su {
