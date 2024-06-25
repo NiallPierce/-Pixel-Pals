@@ -63,4 +63,11 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
   - A drop down menu was also added allowing the user to select their favorite platform. 
 
   ![Sign Up](assets/images/join-Read.jpg)
+
+- __Contact Us__
+
+  - The Contact Us section has a small explanation on how to contact Pixel Pals.
+  - Following that there is a list marked by icons with the information needed.  
+
+  ![Sign Up](assets/images/contact.Read.jpg)
   
