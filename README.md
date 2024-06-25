@@ -46,3 +46,11 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
   - The video is set to muted and to loop but also has controls to allow users to pause it if they wish.
 
   ![Video](assets/images/video-Read.jpg)
+
+  - __Flip Cards__
+
+  - The Flip Cards were added to be able to answer some initial questions the user might have in a fun and interactive way.
+  - They contain a hover over, so that when they are moused over the answer to the questions is revealed on the other side of the cards.
+
+  ![Flip Cards](assets/images/flip-Read.jpg)
+  ![Flip Cards](assets/images/flip2-Read.jpg)
