@@ -214,6 +214,7 @@ header {
 
 /* Sign Up Text area size and borders */
 input[type=text],
+[type=email],
 select,
 textarea {
     width: 100%;
@@ -224,6 +225,8 @@ textarea {
     margin-top: 6px;
     margin-bottom: 16px;
 }
+
+
 
 /* Style for submit button for size and color */
 input[type=submit] {
