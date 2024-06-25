@@ -83,3 +83,12 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
 - Some features I'd like to add in the future would be to add a page going into more detail about upcoming events and tournaments.
 - Another page with more information on give aways and include a gallery. 
+
+## Deployment 
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the GitHub repository, navigate to the Settings tab 
+  - From the source section drop-down menu, select the Master Branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+The live link can be found here - https://niallpierce.github.io/-Pixel-Pals/
