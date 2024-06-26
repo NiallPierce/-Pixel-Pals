@@ -1,19 +1,10 @@
-Issue with hero image added .. instead of assets.
-issue with placement of nav bar, when to love running to see how to get it on same line.
-issue with pushing through git, started new repository under correct template.
-
-
-links used w3 school to help with form
-insperation from love running project for header and nav bar
-used https://redketchup.io/color-picker to help find match color values on logo and submit button
-https://convertio.co/ for jpeg to web.d
-https://www.maps.ie/ for map location
-
 # Pixel Pals
 ## A website built for a fictional online gaming community.
 ### MS1 - Niall Pierce
 
-The primary goal of Pixel Pals is to foster an inclusive environment where gamers of all levels can find camaraderie, share their experiences, and learn from one another. It aims to create a space where friendships are formed, teamwork is celebrated, and everyone feels welcome and valued, regardless of their background or gaming expertise. Pixel Pals is about building a supportive community where members can grow together, share their passion, and celebrate their love for gaming in a respectful environment.
+The main goal I had for creating Pixel Pals was to create a community for gamers from around the world that felt completly inclusive and inviting. From personal experiance I've found that sometimes it's a struggle to get online and play games with your friends and wish I knew more like minded people with similar interests. By creating this website it provides a place for like minded people to meets up and make lasting friendships over a common interest. 
+
+
 
 ![Am I responsive](assets/images/amires.jpg)
 
@@ -126,7 +117,7 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
 - Light House
 
-![Lighthouse Validation](assets/images/lighthouse.jpg)
+  ![Lighthouse Validation](assets/images/lighthouse.jpg)
 
 
 ## Deployment 
@@ -140,17 +131,18 @@ The live link can be found here - https://niallpierce.github.io/-Pixel-Pals/
 
 ## Credits 
 
--Credit to my Mentor Alan Bushell who made great suggestions on adding a map in contact section
+-Credit to my Mentor Alan Bushell who made great suggestions on features and styling.
 
 ### Content 
 
-- For the Flipcards I used W3 Schools tutorial for help- https://www.w3schools.com/howto/howto_css_flip_card.asp
+- For the Flipcards I used W3 Schools tutorial for help [W3 Schools](https://www.w3schools.com/howto/howto_css_flip_card.asp)
 - Icons in header, footer and contact us section are from [Font Awesome](https://fontawesome.com/)
 - Nav Bar I used Love Running for help with positioning.
-- For the colors I was able to use Red Ketchup to keep icons colors the same as back of flip cards and slogan. https://redketchup.io/
+- For the colors I was able to use Red Ketchup to keep icons colors the same as back of flip cards and slogan. [Red Ketchup](https://redketchup.io/)
 
 ### Media
 
-- Main Hero Image is from Wallpaper Abyss https://wall.alphacoders.com/big.php?i=1019645 Creator: Sonixx
-- Video is from Pexel https://www.pexels.com/video/friends-hanging-out-and-playing-video-games-9068505/ Creator: Yan Krukau
-- Map in contact section is from maps.ie https://www.maps.ie/create-google-map/
+- Main Hero Image is from [Wallpaper Abyss](https://wall.alphacoders.com/big.php?i=1019645) Creator: Sonixx
+- Video is from [Pexel](https://www.pexels.com/video/friends-hanging-out-and-playing-video-games-9068505/) Creator: Yan Krukau
+- Map in contact section is from [Maps.ie](https://www.maps.ie/create-google-map/)
+- Image converted from jpeg to webp using [Cloud Convert](https://cloudconvert.com/)
