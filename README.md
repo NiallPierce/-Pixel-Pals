@@ -124,12 +124,33 @@ The primary goal of Pixel Pals is to foster an inclusive environment where gamer
 
   ![CSS Validation](assets/images/cssvalid.jpg)
 
+- Light House
+
+![Lighthouse Validation](assets/images/lighthouse.jpg)
+
 
 ## Deployment 
 
-- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://niallpierce.github.io/-Pixel-Pals/
+
+## Credits 
+
+-Credit to my Mentor Alan Bushell who made great suggestions on adding a map in contact section
+
+### Content 
+
+- For the Flipcards I used W3 Schools tutorial for help- https://www.w3schools.com/howto/howto_css_flip_card.asp
+- Icons in header, footer and contact us section are from [Font Awesome](https://fontawesome.com/)
+- Nav Bar I used Love Running for help with positioning.
+- For the colors I was able to use Red Ketchup to keep icons colors the same as back of flip cards and slogan. https://redketchup.io/
+
+### Media
+
+- Main Hero Image is from Wallpaper Abyss https://wall.alphacoders.com/big.php?i=1019645 Creator: Sonixx
+- Video is from Pexel https://www.pexels.com/video/friends-hanging-out-and-playing-video-games-9068505/ Creator: Yan Krukau
+- Map in contact section is from maps.ie https://www.maps.ie/create-google-map/
