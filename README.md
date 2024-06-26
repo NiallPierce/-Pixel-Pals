@@ -103,10 +103,22 @@ If this section grows too long, you may want to split it off into a separate fil
 - Tested Google Map in Contact Us section to make sure it could be moved correctly by the user.
 
 
-|What is being tested|How it was tested|what was the expected outcome|What was the outcome|
-|--------------------|-----------------|-----------------------------|--------------------|
-|links               |clicked          |open tab                     |pass                |
-|contact button      |gregre           |ergreg                       |fail                |
+### Bugs
+
+- When positioning the video, the width kept pushing the screen out to right on medium to small screens. Corrected this by adjusting size to 100% on each Media
+- Nav bar wouldn't spread across the top, I used the Love Running site to help me space evenly.
+- An incorrect pathing to the main hero image wasn't loading it. Adjusted pathing to fix this. 
+
+### Smaller Screens
+
+- Different media queries allowed me to make sure the site worked and fit correctly. I adjusted the video to sit below the About Us section on smaller screen and the Flip Cards to sit in a column.
+
+
+![Media Queries](assets/images/media-Read.jpg)
+
+- Medium to Large Laptops the Flip Cards are kept in a row while the video is still moved top the bottom of About Us section.
+
+![Media Queries](assets/images/media-Read2.jpg)
 
 
 
